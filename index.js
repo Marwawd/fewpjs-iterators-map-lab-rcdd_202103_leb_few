@@ -19,8 +19,9 @@ const titleCased = () => {
     //[].push(arr[i]);
   }
 
-  return  arr=arr.join(" ");
+  
 
     console.log(arr)
     })
+    return  arr=arr.join(" ");
 }

@@ -19,7 +19,7 @@ const titleCased = () => {
     //[].push(arr[i]);
   }
 
-  
+
 
     console.log(arr)
     })

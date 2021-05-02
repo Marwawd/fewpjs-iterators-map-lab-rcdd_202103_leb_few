@@ -19,6 +19,7 @@ const titleCased = () => {
   }
 
     arr=arr.join(" ");
+    [].push(arr)
     console.log(arr)
     })
 }

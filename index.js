@@ -21,4 +21,3 @@ function titleCased () {
 return  arr.join(" ");
         })
 }
-

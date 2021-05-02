@@ -16,7 +16,6 @@ function titleCased () {
     let arr=item.split(" ")
   for(let i=0 ;i<= arr.length;i++){
     arr[i]=arr[i].charAt(0).toUpperCase()+arr[i].slice(1);
-    //[].push(arr[i]);
   }
 return  arr.join(" ");
         })

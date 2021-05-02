@@ -22,4 +22,4 @@ let t=  tutorials.map(function(item){
 
     return  arr.join(" ");
         })
-}*/
+}

@@ -16,6 +16,7 @@ const titleCased = () => {
     let arr=item.split(" ")
   for(let i in arr){
     arr[i]=arr[i].charAt(0).toUpperCase()+arr[i].slice(1);
+    [].push(arr[i]);
   }
 
     arr=arr.join(" ");

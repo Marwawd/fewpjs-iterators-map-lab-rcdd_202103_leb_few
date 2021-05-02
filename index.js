@@ -19,6 +19,7 @@ let t=  tutorials.map(function(item){
     //[].push(arr[i]);
   }
 
-    })
-    return  t.join(" ");
+
+    return  arr.join(" ");
+        })
 }

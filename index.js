@@ -19,7 +19,7 @@ const titleCased = () => {
   }
 
     arr=arr.join(" ");
-    [].push(arr)
+    [].push(arr);
     console.log(arr)
     })
 }
